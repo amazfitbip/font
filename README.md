@@ -15,7 +15,7 @@ You need to follow following rules:
 - All characters image size must have 16x16 pixel, not less, not more
 
 Characters for following languages are already added:
-- Engish
+- English
 - German
 - Italian
 - Turkish
